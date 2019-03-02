@@ -1,5 +1,5 @@
 # binaries
-Create binaries from web pages by using [Nativefier](../jiahaog/nativefier)
+Create binaries from web pages by using [Nativefier](https://www.github.com/jiahaog/nativefier)
 
 
 ## RMC
